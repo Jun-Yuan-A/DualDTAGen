@@ -1,0 +1,1 @@
+Due to the large size of the preprocessed data file, if you want to run our model, you can decompress the data.rar file and run the create_data.py file. This will result in the preprocessed Davis and Kiba data. Running create_data_bindingdb.py will obtain the preprocessed data of bindingdb.
